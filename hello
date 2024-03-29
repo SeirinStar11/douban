@@ -1,0 +1,122 @@
+<div class="box" style="background-image: linear-gradient(to right, rgb(54,67,99), transparent),url(./pic/霸王别姬.jpg);background-size: 1000px;">
+            <!-- 文字说明 -->
+            <div class="details">
+                <!-- 电影名 -->
+                <span style="font-size: 30px;">
+                    <a href="https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291546%2F">霸王别姬</a>
+                </span>
+                <!-- 导演 -->
+                <p style="color: rgb(203, 229, 252);">
+                    <br/>1993年陈凯歌执导的电影
+                </p>
+                <!-- 简介 -->
+                <div class="pre">
+                    <br/>《霸王别姬》是汤臣电影有限公司出品的文艺片，改编自李碧华的同名小说
+                    ，由陈凯歌执导，李碧华、芦苇编剧，张国荣、巩俐、张丰毅领衔主演。影片围绕
+                    两位京剧伶人半个世纪的悲欢离合，展现了对传统文化、人的生存状态及人性的思
+                    考与领悟。1993年该片在中国内地以及中国香港上映，此后在世界多个国家和地区
+                    公映，并且打破中国内地文艺片在美国的票房纪录。1993年，该片荣获法国戛纳国
+                    际电影节最高奖项金棕榈大奖... >>>
+                </div>
+                <!-- 横线 -->
+                <div class="line"></div>
+                <!-- 其他图册 -->
+                <div class="pic">
+                    <img src="./pic/霸王1.jpg" alt="">
+                    <img src="./pic/霸王2.jpg" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="box" style="background-image: linear-gradient(to right, rgb(54,67,99), transparent),url(./pic/阿甘正传.jpg);background-size: cover;">
+            <!-- 文字说明 -->
+            <div class="details">
+                <!-- 电影名 -->
+                <span style="font-size: 30px;">
+                    <a href="https://movie.douban.com/subject/1292720/">阿甘正传 Forrest Gump</a>
+                </span>
+                <!-- 导演 -->
+                <p>
+                    <br/>美国1994年汤姆·汉克斯主演电影
+                </p>
+                <!-- 简介 -->
+                <div class="pre">
+                    <br/>《阿甘正传》是由罗伯特·泽米吉斯执导的电影，
+                    由汤姆·汉克斯、罗宾·怀特等人主演，于1994年7月6日
+                    在美国上映。电影改编自美国作家温斯顿·格鲁姆于1986
+                    年出版的同名小说，描绘了先天智障的小镇男孩福瑞斯特·
+                    甘自强不息，最终“傻人有傻福”地得到上天眷顾，在多个
+                    领域创造奇迹的励志故事。电影上映后，于1995年获得奥
+                    斯卡最佳影片奖、最佳男主角奖、最佳导演奖等6项大奖。2
+                    014年9月5日，在该片上映20周 ... >>>
+                </div>
+                <!-- 横线 -->
+                <div class="line"></div>
+                <!-- 其他图册 -->
+                <div class="pic">
+                    <img src="./pic/阿甘正传1.jpg" alt="">
+                    <img src="./pic/阿甘正传2.jpg" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="box" style="background-image: linear-gradient(to right, rgb(54,67,99), transparent),url(./pic/泰坦尼克.jpg);background-size: cover;">
+            <!-- 文字说明 -->
+            <div class="details" style="color: rgb(84, 83, 83);">
+                <!-- 电影名 -->
+                <span style="font-size: 30px;">
+                    <a href="https://movie.douban.com/subject/1292722/">泰坦尼克号 Titanic</a>
+                </span>
+                <!-- 导演 -->
+                <p style="color: rgb(114, 185, 232);">
+                    <br/>美国1994年汤姆·汉克斯主演电影
+                </p>
+                <!-- 简介 -->
+                <div class="pre" style="color: rgb(125, 126, 126);">
+                    <br/>《阿甘正传》是由罗伯特·泽米吉斯执导的电影，
+                    由汤姆·汉克斯、罗宾·怀特等人主演，于1994年7月6日
+                    在美国上映。电影改编自美国作家温斯顿·格鲁姆于1986
+                    年出版的同名小说，描绘了先天智障的小镇男孩福瑞斯特·
+                    甘自强不息，最终“傻人有傻福”地得到上天眷顾，在多个
+                    领域创造奇迹的励志故事。电影上映后，于1995年获得奥
+                    斯卡最佳影片奖、最佳男主角奖、最佳导演奖等6项大奖。2
+                    014年9月5日，在该片上映20周 ... >>>
+                </div>
+                <!-- 横线 -->
+                <div class="line"></div>
+                <!-- 其他图册 -->
+                <div class="pic">
+                    <img src="./pic/泰坦尼克2.jpg" alt="">
+                    <img src="./pic/泰坦尼克1.jpg" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="box" style="background-image: linear-gradient(to right, rgb(54,67,99), transparent),url(./pic/杀手.jpg);background-size: cover;">
+            <!-- 文字说明 -->
+            <div class="details">
+                <!-- 电影名 -->
+                <span style="font-size: 30px;">
+                    <a href="https://movie.douban.com/subject/1295644/">这个杀手不太冷 Léon</a>
+                </span>
+                <!-- 导演 -->
+                <p style="color: rgb(159, 208, 240);">
+                    <br/>1994年法国导演吕克·贝松的电影作品
+                </p>
+                <!-- 简介 -->
+                <div class="pre">
+                    <br/>《阿甘正传》是由罗伯特·泽米吉斯执导的电影，
+                    由汤姆·汉克斯、罗宾·怀特等人主演，于1994年7月6日
+                    在美国上映。电影改编自美国作家温斯顿·格鲁姆于1986
+                    年出版的同名小说，描绘了先天智障的小镇男孩福瑞斯特·
+                    甘自强不息，最终“傻人有傻福”地得到上天眷顾，在多个
+                    领域创造奇迹的励志故事。电影上映后，于1995年获得奥
+                    斯卡最佳影片奖、最佳男主角奖、最佳导演奖等6项大奖。2
+                    014年9月5日，在该片上映20周 ... >>>
+                </div>
+                <!-- 横线 -->
+                <div class="line"></div>
+                <!-- 其他图册 -->
+                <div class="pic">
+                    <img src="./pic/杀手1.png" alt="">
+                    <img src="./pic/杀手2.jpg" alt="">
+                </div>
+            </div>
+        </div>
